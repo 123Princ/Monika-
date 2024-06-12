@@ -1,0 +1,106 @@
+{
+  "skills":[
+    {
+      "id": "1",
+      "src": "./img/skill1.png",
+      "title": "Emergency Response Skills",
+      "description": "Equipped with Basic and Advanced Life Support training, GNM nurses swiftly respond to critical situations like cardiac arrests and respiratory distress in hospital settings."
+    },
+    {
+      "id": "2",
+      "src": "./img/skill2.png",
+      "title": "Infection Control Practices",
+      "description": "GNM nurses rigorously implement infection control measures, including meticulous hand hygiene and proper use of personal protective equipment, to curb the spread of infections within hospitals."
+    },
+    {
+      "id": "3",
+      "src": "./img/skill3.png",
+
+      "title": "Patient Safety Practices",
+      "description": "Patient safety is paramount for GNM nurses who ensure correct patient identification, safe transfer techniques, and maintain a secure environment within hospital premises to prevent falls and medication errors."
+    },
+    {
+      "id": "4",
+      "src": "./img/skill4.png",
+
+      "title": "Team Collaboration Skills",
+      "description": "GNM nurses excel in teamwork and collaboration, effectively communicating with multidisciplinary healthcare teams to ensure coordinated care delivery and optimize patient outcomes."
+    }
+  ]
+  , "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/gallery1.jpeg",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/gallery2.jpeg",
+
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/gallery3.jpeg",
+
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "1",
+      "src": "./img/gallery6.jpeg",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/gallery5.jpeg",
+
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/gallery4.jpeg",
+
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "nursingFeedback": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/t1.jpeg",
+      "description": "Monika is an outstanding nursing student. Her dedication and empathy make her a valuable asset in any healthcare setting.",
+      "author_name": "Dr. James Smith",
+      "author_designation": "Chief Medical Officer"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/t3.jpeg",
+      "description": "It has been a pleasure to mentor Monika. She consistently demonstrates a strong work ethic and a genuine passion for nursing.",
+      "author_name": "Nurse Karen Lee",
+      "author_designation": "Senior Nurse"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/t2.jpeg",
+      "description": "Monika’s ability to connect with patients and provide exceptional care is truly inspiring. She is an excellent nursing student.",
+      "author_name": "Prof. John Doe",
+      "author_designation": "Nursing Instructor"
+    }
+  ]
+}
